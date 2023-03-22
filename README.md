@@ -9,8 +9,6 @@
   <h2 align="center">Programmer, Innovator, Tech Geek, Teacher</h2>
 </p>
 
-<p> Enthusiastic and hard-working software developer eager to leverage the problem-solving and multitasking skills utilized in teaching toward the implementation of innovative and exceptional software. </p>
-
 ## Technologies/Languages
 <p>C, C++, Java, Python, Javascript, HTML, CSS</p>
 
