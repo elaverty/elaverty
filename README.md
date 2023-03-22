@@ -5,7 +5,7 @@
 <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-  <img src = "https://github.com/" width = "300" height = "300" align = "center">
+  <img src = "https://github.com/elaverty/elaverty/blob/main/images/lizGrid.jpeg" width = "300" height = "300" align = "center">
   <h2 align="center">Programmer, Innovator, Tech Geek, Teacher</h2>
 
 </p>
